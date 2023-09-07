@@ -1,5 +1,3 @@
-Chapter 9: Leveraging Technology for Change Management
-======================================================
 
 Leveraging technology is essential for effective change management. In this chapter, we will explore strategies for leveraging technology to support change initiatives.
 

@@ -1,5 +1,3 @@
-Chapter 3: Developing a Change Management Mindset
-=================================================
 
 Developing a change management mindset is critical for successfully managing complex transformations in the workplace. In this chapter, we will explore techniques for cultivating a change management mindset.
 

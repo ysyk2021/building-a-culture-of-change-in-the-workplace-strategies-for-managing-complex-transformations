@@ -1,5 +1,3 @@
-Chapter 5: Maximizing Your Change Management Skills in the Workplace
-====================================================================
 
 Maximizing your change management skills is essential for effectively managing complex transformations in the workplace. In this chapter, we will explore strategies for maximizing your change management skills in the workplace.
 

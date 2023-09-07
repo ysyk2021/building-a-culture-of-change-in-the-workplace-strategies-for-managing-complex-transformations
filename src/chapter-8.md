@@ -1,5 +1,3 @@
-Chapter 8: Creating a Culture of Change
-=======================================
 
 Creating a culture of change is essential for organizations to remain competitive and adapt to new challenges. In this chapter, we will explore strategies for creating a culture of change in the workplace.
 

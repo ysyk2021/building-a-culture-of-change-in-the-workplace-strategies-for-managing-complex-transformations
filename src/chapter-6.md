@@ -1,5 +1,3 @@
-Chapter 6: Developing Your Change Management Skills
-===================================================
 
 Developing your change management skills is critical for effectively managing complex transformations in the workplace. In this chapter, we will explore strategies for developing your change management skills.
 

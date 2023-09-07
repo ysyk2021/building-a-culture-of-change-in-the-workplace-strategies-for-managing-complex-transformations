@@ -1,5 +1,3 @@
-Chapter 10: Measuring Results and Learning from Experience
-==========================================================
 
 Effective change management requires ongoing monitoring and evaluation to ensure that change initiatives are successful. In this chapter, we will explore strategies for measuring results and learning from experience.
 

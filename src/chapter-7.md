@@ -1,5 +1,3 @@
-Chapter 7: Managing Resistance to Change
-========================================
 
 Managing resistance to change is critical for successfully implementing complex transformations in the workplace. In this chapter, we will explore strategies for managing resistance to change.
 

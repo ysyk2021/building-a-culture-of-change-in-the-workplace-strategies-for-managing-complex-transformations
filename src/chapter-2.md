@@ -1,5 +1,3 @@
-Chapter 2: Defining Change
-==========================
 
 Defining change is critical for successfully managing complex transformations in the workplace. In this chapter, we will explore the concept of change and its implications for effective change management.
 

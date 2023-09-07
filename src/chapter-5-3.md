@@ -1,5 +1,3 @@
-Communicating Effectively through Change Management
-=========================================================================================================================
 
 Effective communication is essential for successful change management. As a change management professional, you must be able to communicate effectively with stakeholders at all levels of the organization to ensure that everyone is on board and working towards common goals. In this chapter, we will explore strategies for communicating effectively during change management initiatives.
 

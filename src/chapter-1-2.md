@@ -1,5 +1,3 @@
-Common Misconceptions About Change
-===========================================================
 
 Change is an inevitable part of organizational life, but it is often met with resistance and misconceptions. In this chapter, we will explore common misconceptions about change and how to overcome them.
 

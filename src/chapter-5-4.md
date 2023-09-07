@@ -1,5 +1,3 @@
-Fostering Collaboration with Coworkers
-============================================================================================================
 
 In any workplace, change is inevitable. As a change management professional, you are responsible for leading your team through these changes while ensuring that everyone is on the same page and working towards common goals. One effective way to do this is by fostering collaboration among coworkers.
 
