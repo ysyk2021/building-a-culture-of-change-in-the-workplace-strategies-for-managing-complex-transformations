@@ -1,5 +1,4 @@
-Chapter: Recognizing How Culture Contributes to Success
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Culture plays a pivotal role in the success of organizations undergoing complex transformations. This chapter explores the ways in which culture can be a driving force behind positive change outcomes, highlighting how a strong cultural foundation contributes to the overall success of transformation initiatives.
 

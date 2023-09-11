@@ -1,5 +1,4 @@
-Chapter: Encouraging Proactive Change Across the Organization
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of today's workplace, fostering a culture of proactive change is imperative for effectively managing complex transformations. This chapter explores strategies for instilling a mindset of adaptability and continuous improvement throughout the organization.
 

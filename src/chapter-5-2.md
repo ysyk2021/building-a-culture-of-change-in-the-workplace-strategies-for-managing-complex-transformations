@@ -1,5 +1,4 @@
-Chapter: Finding Ways to Apply Change Management to Your Job
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of modern workplaces, change is constant. To foster a culture of change, it's essential for individuals at all levels of an organization to apply change management principles to their roles. This chapter explores practical ways to incorporate change management into your job, enabling you to navigate complex transformations more effectively.
 

@@ -1,5 +1,4 @@
-Chapter: Avoiding Information Overload
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the age of digital transformation and fast-paced technological evolution, one challenge that professionals and organizations often face is information overload. As organizations embark on complex transformations, employees are often inundated with vast amounts of data, tools, and resources. In this chapter, we will address strategies and practices that can help individuals and teams navigate this deluge of information efficiently, ensuring that it becomes a tool for empowerment rather than a source of overwhelm.
 

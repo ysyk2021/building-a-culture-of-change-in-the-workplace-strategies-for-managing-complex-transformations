@@ -1,5 +1,4 @@
-Chapter: Analyzing the Impact of Culture on Individuals and Organizations
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Culture exerts a profound influence on individuals and organizations, shaping behaviors, attitudes, and responses to change. This chapter delves into the intricate relationship between culture and the impact it has on both employees and the overall organization during complex transformations.
 

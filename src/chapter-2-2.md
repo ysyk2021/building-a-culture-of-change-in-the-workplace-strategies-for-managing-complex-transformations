@@ -1,5 +1,4 @@
-Chapter: Understanding the Science Behind Change
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the scientific principles that underpin the process of change and provide insights into how individuals and organizations can effectively navigate complex transformations. Understanding the psychological and neurological aspects of change is crucial for building a culture that embraces and thrives in a dynamic work environment.
 

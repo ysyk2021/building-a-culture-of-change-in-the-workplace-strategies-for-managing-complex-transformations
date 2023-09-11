@@ -1,5 +1,4 @@
-Chapter: Adapting to Changes in the Workplace
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical skill of adapting to changes in the workplace as an essential component of building a culture of change in the context of managing complex transformations. As organizations evolve and embrace change, employees must develop the ability to embrace new paradigms, technologies, and processes. This chapter outlines strategies and practices for cultivating adaptability and resilience in the face of workplace changes.
 

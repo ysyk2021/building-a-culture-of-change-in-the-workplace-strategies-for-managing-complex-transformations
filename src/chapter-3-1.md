@@ -1,5 +1,4 @@
-Chapter: Techniques for Cultivating a Change Management Mindset
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into essential techniques for fostering a change management mindset within the workplace. Developing a change-oriented perspective is crucial for effectively navigating complex transformations and building a culture that embraces change. This chapter explores strategies, attitudes, and practices that can help individuals and teams cultivate a proactive approach to change management.
 

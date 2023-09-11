@@ -1,5 +1,4 @@
-Chapter: Celebrating Change-Based Achievements
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the vital practice of celebrating change-based achievements within the context of building a culture of change in the workplace and managing complex transformations. Recognizing and commemorating the milestones achieved during the change journey not only boosts morale and motivation but also reinforces the organization's commitment to continuous improvement. This chapter outlines strategies and practices for effectively celebrating achievements and fostering a culture that thrives on change.
 

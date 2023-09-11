@@ -1,5 +1,4 @@
-Chapter: Identifying Common Sources of Resistance to Change
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey of building a culture of change in the workplace, one of the most significant challenges organizations face is resistance to change. Resistance can manifest in various forms and can impede the successful implementation of complex transformations. This chapter delves into the common sources of resistance to change and explores strategies for effectively addressing them.
 

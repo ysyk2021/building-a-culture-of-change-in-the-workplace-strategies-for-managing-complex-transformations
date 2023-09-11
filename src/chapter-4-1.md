@@ -1,5 +1,4 @@
-Chapter: The Role of Culture in Change Management
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Culture plays a pivotal role in shaping how organizations navigate and embrace complex transformations. This chapter delves into the significance of organizational culture in change management, highlighting the ways in which culture influences the success of change initiatives and providing strategies for aligning culture with transformation goals.
 

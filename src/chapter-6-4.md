@@ -1,5 +1,4 @@
-Chapter: Fostering Continuous Learning and Improvement
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an ever-evolving business landscape, fostering a culture of continuous learning and improvement is essential for organizations striving to navigate complex transformations successfully. This chapter explores strategies for cultivating an environment that embraces ongoing learning and drives continuous improvement as a core aspect of managing change.
 

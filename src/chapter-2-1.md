@@ -1,5 +1,4 @@
-Chapter: Overview of Change
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts and principles surrounding the establishment of a culture of change within the workplace. Understanding the essence of change and its significance is pivotal for successfully managing complex transformations in any organization.
 

@@ -1,5 +1,4 @@
-Chapter: Developing Strategies for Leading Change
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Leading change within the workplace is a dynamic process that requires careful planning, effective communication, and strong leadership. This chapter explores essential strategies for successfully guiding complex transformations, fostering a culture of change, and ensuring that organizational transitions are embraced by employees.
 

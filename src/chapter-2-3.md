@@ -1,5 +1,4 @@
-Chapter: Assessing Your Personal Approach to Change
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial task of self-assessment when it comes to navigating and adapting to change within the workplace. Understanding your personal approach to change is essential for building a culture of change effectively. By gaining insight into your attitudes, behaviors, and beliefs surrounding change, you can better contribute to managing complex transformations.
 

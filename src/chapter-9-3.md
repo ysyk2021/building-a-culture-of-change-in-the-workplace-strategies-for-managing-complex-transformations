@@ -1,5 +1,4 @@
-Chapter: Fostering Accessibility and Inclusivity
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the imperative of fostering accessibility and inclusivity within the context of building a culture of change in the workplace and managing complex transformations. Creating an environment that is accessible to all employees and embracing diversity leads to more effective change management and sustainable transformation. This chapter delves into strategies and practices for promoting accessibility, inclusivity, and equity throughout the change journey.
 

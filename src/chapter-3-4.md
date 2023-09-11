@@ -1,5 +1,4 @@
-Chapter: Developing Empathy and Compassion Through Change Management
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the process of building a culture of change in the workplace, fostering empathy and compassion is a crucial aspect of successful change management. This chapter explores how developing these qualities can enhance the effectiveness of managing complex transformations and contribute to a more resilient and harmonious work environment.
 

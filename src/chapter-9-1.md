@@ -1,5 +1,4 @@
-Chapter: Identifying Change Management Technologies and Resources
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial aspect of identifying change management technologies and resources that can facilitate the successful execution of complex transformations and contribute to building a culture of change in the workplace. In today's digital age, leveraging the right tools and resources is essential for navigating the challenges of change and ensuring a seamless transition. This chapter delves into strategies for selecting appropriate technologies and resources to support transformation efforts.
 

@@ -1,5 +1,4 @@
-Chapter: Fostering Knowledge Sharing and Mentorship
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of the workplace, fostering a culture of knowledge sharing and mentorship is paramount to drive successful complex transformations. This chapter delves into strategies for creating an environment where employees actively engage in sharing expertise and learning from one another.
 

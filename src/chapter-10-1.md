@@ -1,5 +1,4 @@
-Chapter: Tracking Progress and Measuring Results
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential practice of tracking progress and measuring results as a fundamental component of building a culture of change in the workplace. In the context of managing complex transformations, effective monitoring and evaluation are key to ensuring that efforts are on track and aligning with organizational goals. This chapter explores strategies, tools, and best practices for assessing and quantifying the impact of change initiatives.
 

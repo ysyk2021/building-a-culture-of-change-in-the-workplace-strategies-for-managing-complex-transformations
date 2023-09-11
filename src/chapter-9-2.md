@@ -1,5 +1,4 @@
-Chapter: Using Technology to Enhance Change Management Experiences
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of technology in enhancing change management experiences within the framework of building a culture of change in the workplace and managing complex transformations. The integration of technology not only streamlines processes but also elevates employee engagement, communication, and collaboration throughout the change journey. This chapter delves into strategies and practices for leveraging technology to create more effective and engaging change management experiences.
 
